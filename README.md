@@ -1,6 +1,6 @@
 ### Hi there 👋, Abhay Swarnkar
 #### Machine Learning and Data Science
-![Machine Learning and Data Science](https://www.wordstream.com/wp-content/uploads/2021/07/machine-learning.png)
+![Machine Learning and Data Science](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 I'm Abhay Swarnakar A Computer Science with a keen interest in Machine Learning and Data Science. I'm always looking for opportunities to learn new skills and develop. I display skills in Python Programming and R-Programming.
 ![Profile views](https://gpvc.arturio.dev/GENRATECODE)  
@@ -26,4 +26,4 @@ I'm Abhay Swarnakar A Computer Science with a keen interest in Machine Learning 
 ### PLAY PC GAME 
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-![JUST FUN](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![JUST FUN]
