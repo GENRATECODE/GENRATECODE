@@ -20,7 +20,7 @@ I'm Abhay Swarnakar A Computer Science with a keen interest in Machine Learning 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GENRATECODE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@MoonKnight) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhay-swarnakar-3bb78616b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@abhayswarnakar2019/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/a)  
 
 ![GENRATECODE](https://github-readme-stats.vercel.app/api?username=GENRATECODE&show_icons=true&theme=radical)
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GENRATERCODE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GENRATECODE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### JUST FUN
 ### PLAY PC GAME 
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
